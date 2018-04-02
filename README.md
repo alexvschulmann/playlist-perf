@@ -15,6 +15,11 @@ Required Modules:
     - stravalib
     - spotipy
 
+### Running
+Change the configuration.py file to include your user information (please don't steal mine :) 
+
+Run GUI.py
+
 ## Authors
 
 * **Alex von Schulmann** 
